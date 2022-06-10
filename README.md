@@ -115,10 +115,6 @@ python copycat/scripts/run_workflow.py --infer-input-file-path=your_csv_input_fi
 
 [Amazon](https://drive.google.com/open?id=143BhjMPL5vdNdjk0-duAz4LBB7FBVhXx) and [Yelp](https://drive.google.com/open?id=1wy8lpokZqf3KygQQJTLrPVT7q6Ok3Hgr) checkpoints are available for download. Please put them to `copycat/artifacts/`, to the corresponding dataset sub-folders.
 
-## LICENSE
-
-MIT
-
 
 ## Citation
 
